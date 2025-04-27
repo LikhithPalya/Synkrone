@@ -17,16 +17,16 @@ Youtube-X-Backend is a robust and scalable backend application designed to power
 
 ## Installation
 
-To install and set up Youtube-X-Backend, follow these steps:
+To install and set up Synkrone, follow these steps:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/LikhithPalya/Youtube-X-Backend.git
+   git clone https://github.com/LikhithPalya/Synkrone.git
 
 2. **Install dependencies**
     ```bash
-    cd Youtube-X-Backend
+    cd Synkrone
     npm install
 
 3. **Configure Environment Variables**
