@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-Youtube-X-Backend is a robust and scalable backend application designed to power a YouTube-like video sharing platform. It provides core functionalities for video uploading, processing, storage, and retrieval, as well as user management and social media features like X (twitter) for users to share their opinions or discuss about thier topics of interest in a twitter like environment.
+Synkrone is a robust and scalable backend application designed to power a YouTube-like video sharing platform. It provides core functionalities for video uploading, processing, storage, and retrieval, as well as user management and social media features like X (twitter) for users to share their opinions or discuss about thier topics of interest in a twitter like environment.
 
 ## Features
 
