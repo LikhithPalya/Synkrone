@@ -1,6 +1,6 @@
 # Synkrone - syncing video sharing and discussions
 
-***Have you ever thought of Youtube x X(twitter) models with an advance backend integration with professional models and MongoDB Aggregation pipelines? Welcome to YoutubeX!***
+***Have you ever thought of Youtube x X(twitter) models with an advance backend integration with professional models and MongoDB Aggregation pipelines? Welcome to Synkrone!***
 
 ## Project Overview
 
