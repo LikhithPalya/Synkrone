@@ -1,4 +1,4 @@
-# Youtube-X-Backend 
+# Synkrone
 
 ***Have you ever thought of Youtube x X(twitter) models with an advance backend integration with professional models and MongoDB Aggregation pipelines? Welcome to YoutubeX!***
 
